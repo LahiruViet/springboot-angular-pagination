@@ -1,0 +1,8 @@
+
+a {
+    cursor: pointer;
+}
+
+li.disabled {
+    cursor: no-drop
+}
